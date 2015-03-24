@@ -30,3 +30,5 @@
 
 jhash
 bind_netlink
+
+nft/
